@@ -54,6 +54,8 @@ The AXI4-Stream wrapper acts as the interface layer between the external AXI4-St
 ## 4.IEEE-754 Reference Verification
 The testbench uses **IEEE-754 double-precision floating-point arithmetic as a golden reference model** to verify the fixed-point RTL implementation. The expected complex matrix multiplication results are calculated using high-precision real-valued arithmetic and compared with the RTL outputs to evaluate **amplitude and phase accuracy**, helping identify fixed-point quantization, rounding, and arithmetic errors while validating the correctness of the beamforming computation.
 
+## 5.Simulation Result
+![](images/result.jpeg)
 
 
 
