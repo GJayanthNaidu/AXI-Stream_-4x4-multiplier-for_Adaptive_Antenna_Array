@@ -1,1 +1,17 @@
-
+[T7-flow-control] PASS: s_axis_tready deasserted
+[T7-flow-control-data] y0 : PASS
+REF = (0.399988, 0.099997)
+RTL = (0.399994, 0.100006)
+ERR = (Re:6.103516e-06 Im:9.155273e-06 Amp:8.141826e-06 Phase:0.001029 deg)
+[T7-flow-control-data] y1 : PASS
+REF = (0.099997, -0.299991)
+RTL = (0.100006, -0.299988)
+ERR = (Re:9.155273e-06 Im:3.051758e-06 Amp:1.472595e-10 Phase:0.001749 deg)
+[T7-flow-control-data] y2 : PASS
+REF = (-0.199994, 0.049998)
+RTL = (-0.200012, 0.049988)
+ERR = (Re:-1.831055e-05 Im:-1.068115e-05 Amp:1.517381e-05 Phase:0.004114 deg)
+[T7-flow-control-data] y3 : PASS
+REF = (0.049998, 0.199994)
+RTL = (0.049988, 0.200012)
+ERR = (Re:-1.068115e-05 Im:1.831055e-05 Amp:1.517381e-05 Phase:0.004114 deg)
