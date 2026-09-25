@@ -14,4 +14,5 @@ Designed a pipelined 4×4 complex matrix multiplier for adaptive antenna beamfor
 | Phase & amplitude checking | Numerical accuracy verification |
 | SystemVerilog testbench | Verification methodology |
 
-### Our whole project is totally based on this image 
+### Our whole project is totally based on this architecture
+![](images/11.png)
