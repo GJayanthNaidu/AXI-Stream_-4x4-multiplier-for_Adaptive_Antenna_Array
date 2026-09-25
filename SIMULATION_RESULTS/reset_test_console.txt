@@ -1,0 +1,20 @@
+[T8-reset] PASS: m_axis_tvalid deasserted after reset
+[T8-reset] PASS: s_axis_tready deasserted after reset
+[T8-reset] PASS: no stale output after reset
+[T8-post-reset-identity] y0 : PASS
+REF = (0.199994, 0.099997)
+RTL = (0.200012, 0.100006)
+ERR = (Re:1.831055e-05 Im:9.155273e-06 Amp:2.047181e-05 Phase:0.000000 deg)
+[T8-post-reset-identity] y1 : PASS
+REF = (0.199994, 0.099997)
+RTL = (0.200012, 0.100006)
+ERR = (Re:1.831055e-05 Im:9.155273e-06 Amp:2.047181e-05 Phase:0.000000 deg)
+[T8-post-reset-identity] y2 : PASS
+REF = (0.199994, 0.099997)
+RTL = (0.200012, 0.100006)
+ERR = (Re:1.831055e-05 Im:9.155273e-06 Amp:2.047181e-05 Phase:0.000000 deg)
+[T8-post-reset-identity] y3 : PASS
+REF = (0.199994, 0.099997)
+RTL = (0.200012, 0.100006)
+ERR = (Re:1.831055e-05 Im:9.155273e-06 Amp:2.047181e-05 Phase:0.000000 deg)
+[T8-post-reset-identity] LATENCY PASS: 4 cycles
